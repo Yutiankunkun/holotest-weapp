@@ -1,0 +1,152 @@
+[
+  {
+    "title": "When working on a project",
+    "options": [
+      {
+        "key": "A",
+        "value": "Prefer to focus quietly by yourself",
+        "result": "I"
+      },
+      {
+        "key": "B",
+        "value": "Prefer to brainstorm with others",
+        "result": "E"
+      }
+    ]
+  },
+  {
+    "title": "When making plans for the weekend",
+    "options": [
+      {
+        "key": "A",
+        "value": "Like to schedule everything in advance",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "Decide based on how you feel at the moment",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "When solving a conflict",
+    "options": [
+      {
+        "key": "A",
+        "value": "Rely on objective reasoning",
+        "result": "T"
+      },
+      {
+        "key": "B",
+        "value": "Consider people's feelings first",
+        "result": "F"
+      }
+    ]
+  },
+  {
+    "title": "In conversations",
+    "options": [
+      {
+        "key": "A",
+        "value": "Speak up easily and share ideas",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "Reflect before expressing your thoughts",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "When learning something new",
+    "options": [
+      {
+        "key": "A",
+        "value": "Prefer clear instructions and examples",
+        "result": "S"
+      },
+      {
+        "key": "B",
+        "value": "Enjoy exploring theories and possibilities",
+        "result": "N"
+      }
+    ]
+  },
+  {
+    "title": "During group discussions",
+    "options": [
+      {
+        "key": "A",
+        "value": "Focus on practical details",
+        "result": "S"
+      },
+      {
+        "key": "B",
+        "value": "Focus on big-picture ideas",
+        "result": "N"
+      }
+    ]
+  },
+  {
+    "title": "When facing deadlines",
+    "options": [
+      {
+        "key": "A",
+        "value": "Plan ahead and finish early",
+        "result": "J"
+      },
+      {
+        "key": "B",
+        "value": "Work best under last-minute pressure",
+        "result": "P"
+      }
+    ]
+  },
+  {
+    "title": "When giving feedback",
+    "options": [
+      {
+        "key": "A",
+        "value": "Be direct and straightforward",
+        "result": "T"
+      },
+      {
+        "key": "B",
+        "value": "Be gentle and considerate",
+        "result": "F"
+      }
+    ]
+  },
+  {
+    "title": "At social events",
+    "options": [
+      {
+        "key": "A",
+        "value": "Feel energized by interacting with many people",
+        "result": "E"
+      },
+      {
+        "key": "B",
+        "value": "Prefer meaningful conversations with a few people",
+        "result": "I"
+      }
+    ]
+  },
+  {
+    "title": "When thinking about the future",
+    "options": [
+      {
+        "key": "A",
+        "value": "Focus on realistic and concrete outcomes",
+        "result": "S"
+      },
+      {
+        "key": "B",
+        "value": "Imagine creative and innovative possibilities",
+        "result": "N"
+      }
+    ]
+  }
+]

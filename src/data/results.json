@@ -1,0 +1,98 @@
+[
+  {
+    "resultProp": ["I","S","F","J"],
+    "resultDesc": "Hololive Generation 0. She is widely regarded as earnest, gentle, and sincere, often acting as a stabilizing presence within the group. Her polite and considerate demeanor reflects strong professionalism and a deep sense of responsibility toward both colleagues and fans.",
+    "resultPicture": "icon_tokino",
+    "resultName": "Tokino Sora"
+  },
+  {
+    "resultProp": ["I","N","F","P"],
+    "resultDesc": "Hololive Generation 0. She presents herself as relaxed and slightly absent-minded, creating a laid-back and approachable atmosphere. Despite her calm tone, she shows perseverance and quiet dedication in her activities.",
+    "resultPicture": "icon_roboco",
+    "resultName": "Robocosan"
+  },
+  {
+    "resultProp": ["E","N","F","J"],
+    "resultDesc": "Hololive 1st Generation. She is warm, affectionate, and openly expressive, often emphasizing inclusivity and emotional closeness. Her graceful yet playful attitude shows confidence balanced with kindness.",
+    "resultPicture": "icon_aki",
+    "resultName": "Aki Rosenthal"
+  },
+  {
+    "resultProp": ["E","N","F","P"],
+    "resultDesc": "Hololive 1st Generation. She is bold and unpredictable, frequently shifting between cute innocence and chaotic humor. This duality reflects creativity and a willingness to challenge expectations without hesitation.",
+    "resultPicture": "icon_akai",
+    "resultName": "Akai Haato"
+  },
+  {
+    "resultProp": ["E","N","T","P"],
+    "resultDesc": "Hololive 1st Generation. She is highly sociable and adaptable, often serving as a bridge between different members. Her humor and lighthearted mischief are paired with strong situational awareness and leadership instincts.",
+    "resultPicture": "icon_shirakami",
+    "resultName": "Shirakami Fubuki"
+  },
+  {
+    "resultProp": ["E","S","F","P"],
+    "resultDesc": "Hololive 1st Generation. She is energetic, outspoken, and emotionally transparent, rarely hiding what she feels. Beneath her loud enthusiasm lies a surprisingly thoughtful and supportive personality.",
+    "resultPicture": "icon_natsuiro",
+    "resultName": "Natsuiro Matsuri"
+  },
+  {
+    "resultProp": ["E","S","T","P"],
+    "resultDesc": "Hololive 2nd Generation. She displays playful teasing and confident charm, often engaging others with mischievous wit. Her composure and elegance give her a refined yet approachable presence.",
+    "resultPicture": "icon_nakiri",
+    "resultName": "Nakiri Ayame"
+  },
+  {
+    "resultProp": ["E","S","F","J"],
+    "resultDesc": "Hololive 2nd Generation. She projects a seductive and teasing persona while maintaining a nurturing and attentive attitude. Her calm communication style often makes interactions feel personal and reassuring.",
+    "resultPicture": "icon_yuzuki",
+    "resultName": "Yuzuki Choco"
+  },
+  {
+    "resultProp": ["E","S","T","J"],
+    "resultDesc": "Hololive 2nd Generation. She is straightforward, diligent, and emotionally resilient, often described as grounded and honest. Her strong sense of camaraderie and fairness shapes her reliable leadership qualities.",
+    "resultPicture": "icon_oozora",
+    "resultName": "Oozora Subaru"
+  },
+  {
+    "resultProp": ["I","N","T","J"],
+    "resultDesc": "Hololive Generation 0. She carries a serious and introspective aura, focusing on musical artistry with dedication. Her disciplined and composed demeanor reflects a strong commitment to personal growth.",
+    "resultPicture": "icon_azki",
+    "resultName": "AZKi"
+  },
+  {
+    "resultProp": ["I","N","F","J"],
+    "resultDesc": "Hololive Gamers. She is calm, observant, and empathetic, frequently acting as an older-sister figure. Her thoughtful communication style fosters trust and stability within group dynamics.",
+    "resultPicture": "icon_ookami",
+    "resultName": "Ookami Mio"
+  },
+  {
+    "resultProp": ["E","N","F","P"],
+    "resultDesc": "Hololive Generation 0. She is enthusiastic and somewhat clumsy, often turning mistakes into comedic charm. Her optimism and persistence demonstrate resilience despite setbacks.",
+    "resultPicture": "icon_sakura",
+    "resultName": "Sakura Miko"
+  },
+  {
+    "resultProp": ["I","N","T","P"],
+    "resultDesc": "Hololive Gamers. She is relaxed, witty, and subtly teasing, maintaining an unhurried conversational tone. Her laid-back approach coexists with quiet attentiveness toward close companions.",
+    "resultPicture": "icon_nekomata",
+    "resultName": "Nekomata Okayu"
+  },
+  {
+    "resultProp": ["E","S","F","P"],
+    "resultDesc": "Hololive Gamers. She is cheerful, eccentric, and intensely energetic, frequently embracing absurd humor. Her loyalty and endurance reflect deep commitment to her community.",
+    "resultPicture": "icon_inugami",
+    "resultName": "Inugami Korone"
+  },
+  {
+    "resultProp": ["E","N","T","J"],
+    "resultDesc": "Hololive Generation 0. She is highly driven, disciplined, and ambitious, constantly pushing herself to improve. Her direct communication style conveys confidence and unwavering determination.",
+    "resultPicture": "icon_hoshimachi",
+    "resultName": "Hoshimachi Suisei"
+  },
+  {
+    "resultProp": ["E","N","T","P"],
+    "resultDesc": "Hololive 3rd Generation. Hololive Fantasy. She is mischievous, competitive, and theatrically dramatic, often reveling in playful schemes. Beneath the antics lies strong work ethic and strategic thinking in social interactions.",
+    "resultPicture": "icon_usada",
+    "resultName": "Usada Pekora"
+  }
+]
