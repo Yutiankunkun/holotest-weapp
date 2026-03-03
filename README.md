@@ -61,7 +61,7 @@ src/
 ```
 
 
-## 📄 License
+## 📄 Acknowledgements
 
 This project is created for **learning and practice purposes only**.
 All Hololive character images and related intellectual property belong to **COVER Corp.**
